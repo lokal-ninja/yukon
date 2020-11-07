@@ -1,0 +1,1 @@
+Yukon is the smallest and westernmost of Canada's three territories. It also is the least populated province or territory in Canada, with a population of 35,874 people as of the 2016 Census. Whitehorse, the territorial capital and Yukon's only city, is the largest settlement in any of the three territories. (Wikipedia)
