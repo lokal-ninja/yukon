@@ -1,6 +1,6 @@
 ---
 title: Otter Falls
 url: /otter-falls/
-latitude: 
-longitude: 
+latitude: 60.854
+longitude: -137.035
 ---
