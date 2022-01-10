@@ -1,5 +1,5 @@
 ---
 title: "Yukon Honda"
 url: /whitehorse/yukon-honda/
-shop: Motorrad
+shop: motorcycle
 ---
