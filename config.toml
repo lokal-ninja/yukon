@@ -1,4 +1,4 @@
-baseURL = "https://ca.shoogle.net/yukon"
+baseURL = "https://ca.shoogle.net/yukon/"
 languageCode = "en-US"
 title = "Yukon"
 theme = "ln-base"
