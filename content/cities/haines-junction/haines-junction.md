@@ -1,5 +1,5 @@
 ---
 title: "Haines Junction"
 url: /haines-junction/haines-junction/
-shop: alcohol
+shop: Spirituosen
 ---
