@@ -1,5 +1,5 @@
 ---
 title: "Philmar RV Centre"
 url: /whitehorse/philmar-rv-centre/
-shop: Wohnwagen
+shop: caravan
 ---

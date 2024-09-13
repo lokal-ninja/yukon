@@ -1,5 +1,5 @@
 ---
 title: "Petro-Canada"
 url: /whitehorse/petro-canada/
-shop: Lebensmittel
+shop: convenience
 ---

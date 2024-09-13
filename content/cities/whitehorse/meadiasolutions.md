@@ -1,5 +1,5 @@
 ---
 title: "MEADIAsolutions"
 url: /whitehorse/meadiasolutions/
-shop: Computer
+shop: computer
 ---
