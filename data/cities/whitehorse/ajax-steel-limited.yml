@@ -1,11 +1,11 @@
 id: 523966863
-type: way
+type: node
 latitude: 60.73959
 longitude: -135.07635
 postcode: ""
 city: Whitehorse
-street: "Industrial Road"
-housenumber: 143
-phone: "+1-888-667-2529"
+street: Industrial Road
+housenumber: "143"
+phone: +1-888-667-2529
 opening_hours: ""
-website: "https://www.ajaxyk.ca"
+website: https://www.ajaxyk.ca

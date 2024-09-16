@@ -1,11 +1,11 @@
 id: 216993814
-type: way
+type: node
 latitude: 60.73408
 longitude: -135.07853
-postcode: "Y1A 2T8"
+postcode: Y1A 2T8
 city: Whitehorse
-street: "Industrial Road"
-housenumber: 107
+street: Industrial Road
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

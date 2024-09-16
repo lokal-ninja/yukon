@@ -1,11 +1,11 @@
 id: 427655245
-type: way
+type: node
 latitude: 60.71905
 longitude: -135.05977
-postcode: "Y1A 2E1"
+postcode: Y1A 2E1
 city: Whitehorse
-street: "Steele Street"
-housenumber: 505
-phone: "+1 867 633 5600"
+street: Steele Street
+housenumber: "505"
+phone: +1 867 633 5600
 opening_hours: ""
-website: "http://cadencecycle.squarespace.com/"
+website: http://cadencecycle.squarespace.com/

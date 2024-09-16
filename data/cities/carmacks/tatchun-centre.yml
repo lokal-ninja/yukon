@@ -1,11 +1,11 @@
 id: 264697004
-type: way
+type: node
 latitude: 62.08925
 longitude: -136.28214
-postcode: "Y0B 1C0"
+postcode: Y0B 1C0
 city: Carmacks
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "07:00-22:00"
-website: "https://www.hotelcarmacks.com/general-store.html"
+opening_hours: 07:00-22:00
+website: https://www.hotelcarmacks.com/general-store.html

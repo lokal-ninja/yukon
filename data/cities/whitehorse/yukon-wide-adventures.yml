@@ -1,11 +1,11 @@
 id: 369001586
-type: way
+type: node
 latitude: 60.71853
 longitude: -135.05009
 postcode: ""
 city: Whitehorse
-street: "Lambert Street"
-housenumber: 102
+street: Lambert Street
+housenumber: "102"
 phone: "+18673932111"
 opening_hours: ""
-website: "https://yukonwide.com/"
+website: https://yukonwide.com/

@@ -1,11 +1,11 @@
 id: 369001581
-type: way
+type: node
 latitude: 60.71758
 longitude: -135.05156
 postcode: ""
 city: Whitehorse
-street: "Hanson Street"
+street: Hanson Street
 housenumber: 206a
-phone: "+1 867 633 2787"
-opening_hours: "Mo 10:00-17:00; Tu-Fr 09:00-17:00"
-website: "https://meadia.net"
+phone: +1 867 633 2787
+opening_hours: Mo 10:00-17:00; Tu-Fr 09:00-17:00
+website: https://meadia.net

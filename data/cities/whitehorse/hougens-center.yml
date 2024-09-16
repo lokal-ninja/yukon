@@ -1,11 +1,11 @@
 id: 220681715
-type: way
+type: node
 latitude: 60.71888
 longitude: -135.05594
-postcode: "Y1A 2B4"
+postcode: Y1A 2B4
 city: Whitehorse
-street: "Main Street"
-housenumber: 305
+street: Main Street
+housenumber: "305"
 phone: ""
 opening_hours: ""
 website: ""

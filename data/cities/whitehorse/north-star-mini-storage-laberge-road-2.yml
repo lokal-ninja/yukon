@@ -1,11 +1,11 @@
 id: 1061522043
-type: way
+type: node
 latitude: 60.77072
 longitude: -135.16446
 postcode: ""
 city: Whitehorse
-street: "Laberge Road"
-housenumber: 27
-phone: "+1 (867) 633-5402"
+street: Laberge Road
+housenumber: "27"
+phone: +1 (867) 633-5402
 opening_hours: ""
-website: "https://www.northstarstorage.ca/"
+website: https://www.northstarstorage.ca/

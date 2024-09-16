@@ -1,11 +1,11 @@
 id: 366651762
-type: way
+type: node
 latitude: 60.72062
 longitude: -135.05156
 postcode: ""
 city: Whitehorse
-street: "Main Street"
-housenumber: 100
+street: Main Street
+housenumber: "100"
 phone: ""
-opening_hours: "Sa-Mo 11:00-17:00; Tu-Fr 10:00-18:00"
-website: "https://horwoodsmall.ca/"
+opening_hours: Sa-Mo 11:00-17:00; Tu-Fr 10:00-18:00
+website: https://horwoodsmall.ca/

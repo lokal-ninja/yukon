@@ -1,11 +1,11 @@
 id: 346363357
-type: way
+type: node
 latitude: 60.71946
 longitude: -135.05079
 postcode: ""
 city: Whitehorse
-street: "Elliott Street"
-housenumber: 108
+street: Elliott Street
+housenumber: "108"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:30"
+opening_hours: Mo-Fr 08:30-17:30
 website: ""

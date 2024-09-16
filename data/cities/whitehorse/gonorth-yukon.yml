@@ -1,11 +1,11 @@
 id: 1291178014
-type: way
+type: node
 latitude: 60.64417
 longitude: -135.03176
-postcode: "Y1A 0A8"
+postcode: Y1A 0A8
 city: Whitehorse
-street: "Mount Sima Road"
-housenumber: 115
-phone: "+1-907-479 7272"
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://gonorth-alaska.com/yukon"
+street: Mount Sima Road
+housenumber: "115"
+phone: +1-907-479 7272
+opening_hours: Mo-Fr 09:00-16:00
+website: https://gonorth-alaska.com/yukon
