@@ -7,5 +7,5 @@ city: Carcross
 street: Dawson Charlie Street
 housenumber: ""
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Th,Fr,Su 09:00-16:00; Tu,Sa 09:00-17:30; We 10:00-16:00
 website: https://www.yukongeneralstore.com/
